@@ -1,7 +1,10 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "index": "🔑 Activate Your License",
+  "another": "Getting Started Using FastMove",
+  "advanced": "Online Migration",
+  "offline": "Offline Migration Using an External Hard Drive or a Network Folder",
+  "offline-USB": "Offline Migration Using a USB Cable",
+  "Data": "What Kind of Data You Can Migrate with FastMove",
   "about": {
     "title": "About",
     "type": "page"
@@ -9,7 +12,7 @@
   "contact": {
     "title": "Contact ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://www.upwork.com/freelancers/abdelrahmanragab",
     "newWindow": true
   }
 }
